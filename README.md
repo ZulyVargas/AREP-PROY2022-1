@@ -55,7 +55,9 @@ Este conjunto de datos se almacen+o en un bucket S3 provisto por AWS. Estos fuer
 ![](img/report2.png)
 
 
+### Vídeo funcionamiento:
 
+https://github.com/ZulyVargas/AREP-PROY2022-1/blob/main/prototipo2.mp4
 
 
 ## Autores
